@@ -1,0 +1,237 @@
+datum,name,kraj,variable,value
+2021-11-01,Pezinok,Bratislavský,obsadene_typ_3,0
+2021-11-01,Pezinok,Bratislavský,obsadene_typ_4,0
+2021-11-01,Malacky,Bratislavský,obsadene_typ_3,0
+2021-11-01,Malacky,Bratislavský,obsadene_typ_4,0
+2021-11-01,Bratislava I,Bratislavský,obsadene_typ_3,0
+2021-11-01,Bratislava I,Bratislavský,obsadene_typ_4,2
+2021-11-01,Bratislava V,Bratislavský,obsadene_typ_3,7
+2021-11-01,Bratislava V,Bratislavský,obsadene_typ_4,3
+2021-11-01,Bratislava III,Bratislavský,obsadene_typ_3,3
+2021-11-01,Bratislava III,Bratislavský,obsadene_typ_4,2
+2021-11-01,Bratislava II,Bratislavský,obsadene_typ_3,6
+2021-11-01,Bratislava II,Bratislavský,obsadene_typ_4,3
+2021-11-01,Galanta,Trnavský,obsadene_typ_3,0
+2021-11-01,Galanta,Trnavský,obsadene_typ_4,3
+2021-11-01,Dunajská Streda,Trnavský,obsadene_typ_3,1
+2021-11-01,Dunajská Streda,Trnavský,obsadene_typ_4,2
+2021-11-01,Piešťany,Trnavský,obsadene_typ_3,0
+2021-11-01,Piešťany,Trnavský,obsadene_typ_4,3
+2021-11-01,Trnava,Trnavský,obsadene_typ_3,2
+2021-11-01,Trnava,Trnavský,obsadene_typ_4,9
+2021-11-01,Skalica,Trnavský,obsadene_typ_3,0
+2021-11-01,Skalica,Trnavský,obsadene_typ_4,4
+2021-11-01,Nitra,Nitriansky,obsadene_typ_3,1
+2021-11-01,Nitra,Nitriansky,obsadene_typ_4,4
+2021-11-01,Nové Zámky,Nitriansky,obsadene_typ_3,0
+2021-11-01,Nové Zámky,Nitriansky,obsadene_typ_4,5
+2021-11-01,Topoľčany,Nitriansky,obsadene_typ_3,0
+2021-11-01,Topoľčany,Nitriansky,obsadene_typ_4,4
+2021-11-01,Komárno,Nitriansky,obsadene_typ_3,0
+2021-11-01,Komárno,Nitriansky,obsadene_typ_4,2
+2021-11-01,Levice,Nitriansky,obsadene_typ_3,1
+2021-11-01,Levice,Nitriansky,obsadene_typ_4,4
+2021-11-01,Zlaté Moravce,Nitriansky,obsadene_typ_3,0
+2021-11-01,Zlaté Moravce,Nitriansky,obsadene_typ_4,0
+2021-11-01,Žilina,Žilinský,obsadene_typ_3,4
+2021-11-01,Žilina,Žilinský,obsadene_typ_4,6
+2021-11-01,Martin,Žilinský,obsadene_typ_3,7
+2021-11-01,Martin,Žilinský,obsadene_typ_4,10
+2021-11-01,Liptovský Mikuláš,Žilinský,obsadene_typ_3,3
+2021-11-01,Liptovský Mikuláš,Žilinský,obsadene_typ_4,5
+2021-11-01,Ružomberok,Žilinský,obsadene_typ_3,3
+2021-11-01,Ružomberok,Žilinský,obsadene_typ_4,4
+2021-11-01,Čadca,Žilinský,obsadene_typ_3,6
+2021-11-01,Čadca,Žilinský,obsadene_typ_4,11
+2021-11-01,Tvrdošín,Žilinský,obsadene_typ_3,4
+2021-11-01,Tvrdošín,Žilinský,obsadene_typ_4,4
+2021-11-01,Dolný Kubín,Žilinský,obsadene_typ_3,3
+2021-11-01,Dolný Kubín,Žilinský,obsadene_typ_4,3
+2021-11-01,Lučenec,Banskobystrický,obsadene_typ_3,10
+2021-11-01,Lučenec,Banskobystrický,obsadene_typ_4,4
+2021-11-01,Rimavská Sobota,Banskobystrický,obsadene_typ_3,4
+2021-11-01,Rimavská Sobota,Banskobystrický,obsadene_typ_4,4
+2021-11-01,Zvolen,Banskobystrický,obsadene_typ_3,3
+2021-11-01,Zvolen,Banskobystrický,obsadene_typ_4,5
+2021-11-01,Brezno,Banskobystrický,obsadene_typ_3,3
+2021-11-01,Brezno,Banskobystrický,obsadene_typ_4,1
+2021-11-01,Banská Bystrica,Banskobystrický,obsadene_typ_3,3
+2021-11-01,Banská Bystrica,Banskobystrický,obsadene_typ_4,6
+2021-11-01,Veľký Krtíš,Banskobystrický,obsadene_typ_3,0
+2021-11-01,Veľký Krtíš,Banskobystrický,obsadene_typ_4,3
+2021-11-01,Žiar nad Hronom,Banskobystrický,obsadene_typ_3,3
+2021-11-01,Žiar nad Hronom,Banskobystrický,obsadene_typ_4,2
+2021-11-01,Krupina,Banskobystrický,obsadene_typ_3,0
+2021-11-01,Krupina,Banskobystrický,obsadene_typ_4,0
+2021-11-01,Revúca,Banskobystrický,obsadene_typ_3,0
+2021-11-01,Revúca,Banskobystrický,obsadene_typ_4,0
+2021-11-01,Bardejov,Prešovský,obsadene_typ_3,6
+2021-11-01,Bardejov,Prešovský,obsadene_typ_4,4
+2021-11-01,Kežmarok,Prešovský,obsadene_typ_3,0
+2021-11-01,Kežmarok,Prešovský,obsadene_typ_4,4
+2021-11-01,Prešov,Prešovský,obsadene_typ_3,5
+2021-11-01,Prešov,Prešovský,obsadene_typ_4,12
+2021-11-01,Humenné,Prešovský,obsadene_typ_3,2
+2021-11-01,Humenné,Prešovský,obsadene_typ_4,3
+2021-11-01,Vranov nad Topľou,Prešovský,obsadene_typ_3,2
+2021-11-01,Vranov nad Topľou,Prešovský,obsadene_typ_4,3
+2021-11-01,Levoča,Prešovský,obsadene_typ_3,0
+2021-11-01,Levoča,Prešovský,obsadene_typ_4,0
+2021-11-01,Poprad,Prešovský,obsadene_typ_3,4
+2021-11-01,Poprad,Prešovský,obsadene_typ_4,10
+2021-11-01,Snina,Prešovský,obsadene_typ_3,3
+2021-11-01,Snina,Prešovský,obsadene_typ_4,1
+2021-11-01,Svidník,Prešovský,obsadene_typ_3,4
+2021-11-01,Svidník,Prešovský,obsadene_typ_4,4
+2021-11-01,Stará Ľubovňa,Prešovský,obsadene_typ_3,5
+2021-11-01,Stará Ľubovňa,Prešovský,obsadene_typ_4,4
+2021-11-01,Rožňava,Košický,obsadene_typ_3,3
+2021-11-01,Rožňava,Košický,obsadene_typ_4,2
+2021-11-01,Spišská Nová Ves,Košický,obsadene_typ_3,3
+2021-11-01,Spišská Nová Ves,Košický,obsadene_typ_4,9
+2021-11-01,Trebišov,Košický,obsadene_typ_3,4
+2021-11-01,Trebišov,Košický,obsadene_typ_4,2
+2021-11-01,Michalovce,Košický,obsadene_typ_3,7
+2021-11-01,Michalovce,Košický,obsadene_typ_4,3
+2021-11-01,Sobrance,Košický,obsadene_typ_3,0
+2021-11-01,Sobrance,Košický,obsadene_typ_4,0
+2021-11-01,Košice I,Košický,obsadene_typ_3,0
+2021-11-01,Košice I,Košický,obsadene_typ_4,0
+2021-11-01,Košice IV,Košický,obsadene_typ_3,18
+2021-11-01,Košice IV,Košický,obsadene_typ_4,10
+2021-11-01,Košice II,Košický,obsadene_typ_3,0
+2021-11-01,Košice II,Košický,obsadene_typ_4,4
+2021-11-01,Trenčín,Trenčiansky,obsadene_typ_3,4
+2021-11-01,Trenčín,Trenčiansky,obsadene_typ_4,7
+2021-11-01,Bánovce nad Bebravou,Trenčiansky,obsadene_typ_3,0
+2021-11-01,Bánovce nad Bebravou,Trenčiansky,obsadene_typ_4,0
+2021-11-01,Nové Mesto n.Váhom,Trenčiansky,obsadene_typ_3,0
+2021-11-01,Nové Mesto n.Váhom,Trenčiansky,obsadene_typ_4,0
+2021-11-01,Považská Bystrica,Trenčiansky,obsadene_typ_3,0
+2021-11-01,Považská Bystrica,Trenčiansky,obsadene_typ_4,4
+2021-11-01,Ilava,Trenčiansky,obsadene_typ_3,0
+2021-11-01,Ilava,Trenčiansky,obsadene_typ_4,0
+2021-11-01,Prievidza,Trenčiansky,obsadene_typ_3,0
+2021-11-01,Prievidza,Trenčiansky,obsadene_typ_4,4
+2021-11-01,Partizánske,Trenčiansky,obsadene_typ_3,1
+2021-11-01,Partizánske,Trenčiansky,obsadene_typ_4,3
+2021-11-01,Myjava,Trenčiansky,obsadene_typ_3,0
+2021-11-01,Myjava,Trenčiansky,obsadene_typ_4,2
+2021-11-02,Pezinok,Bratislavský,obsadene_typ_3,0
+2021-11-02,Pezinok,Bratislavský,obsadene_typ_4,0
+2021-11-02,Malacky,Bratislavský,obsadene_typ_3,0
+2021-11-02,Malacky,Bratislavský,obsadene_typ_4,0
+2021-11-02,Bratislava I,Bratislavský,obsadene_typ_3,0
+2021-11-02,Bratislava I,Bratislavský,obsadene_typ_4,2
+2021-11-02,Bratislava V,Bratislavský,obsadene_typ_3,7
+2021-11-02,Bratislava V,Bratislavský,obsadene_typ_4,3
+2021-11-02,Bratislava III,Bratislavský,obsadene_typ_3,3
+2021-11-02,Bratislava III,Bratislavský,obsadene_typ_4,2
+2021-11-02,Bratislava II,Bratislavský,obsadene_typ_3,6
+2021-11-02,Bratislava II,Bratislavský,obsadene_typ_4,3
+2021-11-02,Galanta,Trnavský,obsadene_typ_3,0
+2021-11-02,Galanta,Trnavský,obsadene_typ_4,3
+2021-11-02,Dunajská Streda,Trnavský,obsadene_typ_3,1
+2021-11-02,Dunajská Streda,Trnavský,obsadene_typ_4,2
+2021-11-02,Piešťany,Trnavský,obsadene_typ_3,0
+2021-11-02,Piešťany,Trnavský,obsadene_typ_4,3
+2021-11-02,Trnava,Trnavský,obsadene_typ_3,2
+2021-11-02,Trnava,Trnavský,obsadene_typ_4,9
+2021-11-02,Skalica,Trnavský,obsadene_typ_3,0
+2021-11-02,Skalica,Trnavský,obsadene_typ_4,4
+2021-11-02,Nitra,Nitriansky,obsadene_typ_3,1
+2021-11-02,Nitra,Nitriansky,obsadene_typ_4,4
+2021-11-02,Nové Zámky,Nitriansky,obsadene_typ_3,0
+2021-11-02,Nové Zámky,Nitriansky,obsadene_typ_4,5
+2021-11-02,Topoľčany,Nitriansky,obsadene_typ_3,0
+2021-11-02,Topoľčany,Nitriansky,obsadene_typ_4,4
+2021-11-02,Komárno,Nitriansky,obsadene_typ_3,0
+2021-11-02,Komárno,Nitriansky,obsadene_typ_4,2
+2021-11-02,Levice,Nitriansky,obsadene_typ_3,1
+2021-11-02,Levice,Nitriansky,obsadene_typ_4,4
+2021-11-02,Zlaté Moravce,Nitriansky,obsadene_typ_3,0
+2021-11-02,Zlaté Moravce,Nitriansky,obsadene_typ_4,0
+2021-11-02,Žilina,Žilinský,obsadene_typ_3,4
+2021-11-02,Žilina,Žilinský,obsadene_typ_4,6
+2021-11-02,Martin,Žilinský,obsadene_typ_3,7
+2021-11-02,Martin,Žilinský,obsadene_typ_4,10
+2021-11-02,Liptovský Mikuláš,Žilinský,obsadene_typ_3,3
+2021-11-02,Liptovský Mikuláš,Žilinský,obsadene_typ_4,5
+2021-11-02,Ružomberok,Žilinský,obsadene_typ_3,3
+2021-11-02,Ružomberok,Žilinský,obsadene_typ_4,4
+2021-11-02,Čadca,Žilinský,obsadene_typ_3,6
+2021-11-02,Čadca,Žilinský,obsadene_typ_4,11
+2021-11-02,Tvrdošín,Žilinský,obsadene_typ_3,4
+2021-11-02,Tvrdošín,Žilinský,obsadene_typ_4,4
+2021-11-02,Dolný Kubín,Žilinský,obsadene_typ_3,3
+2021-11-02,Dolný Kubín,Žilinský,obsadene_typ_4,3
+2021-11-02,Lučenec,Banskobystrický,obsadene_typ_3,10
+2021-11-02,Lučenec,Banskobystrický,obsadene_typ_4,4
+2021-11-02,Rimavská Sobota,Banskobystrický,obsadene_typ_3,4
+2021-11-02,Rimavská Sobota,Banskobystrický,obsadene_typ_4,4
+2021-11-02,Zvolen,Banskobystrický,obsadene_typ_3,3
+2021-11-02,Zvolen,Banskobystrický,obsadene_typ_4,5
+2021-11-02,Brezno,Banskobystrický,obsadene_typ_3,3
+2021-11-02,Brezno,Banskobystrický,obsadene_typ_4,1
+2021-11-02,Banská Bystrica,Banskobystrický,obsadene_typ_3,3
+2021-11-02,Banská Bystrica,Banskobystrický,obsadene_typ_4,6
+2021-11-02,Veľký Krtíš,Banskobystrický,obsadene_typ_3,0
+2021-11-02,Veľký Krtíš,Banskobystrický,obsadene_typ_4,3
+2021-11-02,Žiar nad Hronom,Banskobystrický,obsadene_typ_3,3
+2021-11-02,Žiar nad Hronom,Banskobystrický,obsadene_typ_4,2
+2021-11-02,Krupina,Banskobystrický,obsadene_typ_3,0
+2021-11-02,Krupina,Banskobystrický,obsadene_typ_4,0
+2021-11-02,Revúca,Banskobystrický,obsadene_typ_3,0
+2021-11-02,Revúca,Banskobystrický,obsadene_typ_4,0
+2021-11-02,Bardejov,Prešovský,obsadene_typ_3,6
+2021-11-02,Bardejov,Prešovský,obsadene_typ_4,4
+2021-11-02,Kežmarok,Prešovský,obsadene_typ_3,0
+2021-11-02,Kežmarok,Prešovský,obsadene_typ_4,4
+2021-11-02,Prešov,Prešovský,obsadene_typ_3,5
+2021-11-02,Prešov,Prešovský,obsadene_typ_4,12
+2021-11-02,Humenné,Prešovský,obsadene_typ_3,2
+2021-11-02,Humenné,Prešovský,obsadene_typ_4,3
+2021-11-02,Vranov nad Topľou,Prešovský,obsadene_typ_3,2
+2021-11-02,Vranov nad Topľou,Prešovský,obsadene_typ_4,3
+2021-11-02,Levoča,Prešovský,obsadene_typ_3,0
+2021-11-02,Levoča,Prešovský,obsadene_typ_4,0
+2021-11-02,Poprad,Prešovský,obsadene_typ_3,4
+2021-11-02,Poprad,Prešovský,obsadene_typ_4,10
+2021-11-02,Snina,Prešovský,obsadene_typ_3,3
+2021-11-02,Snina,Prešovský,obsadene_typ_4,1
+2021-11-02,Svidník,Prešovský,obsadene_typ_3,4
+2021-11-02,Svidník,Prešovský,obsadene_typ_4,4
+2021-11-02,Stará Ľubovňa,Prešovský,obsadene_typ_3,5
+2021-11-02,Stará Ľubovňa,Prešovský,obsadene_typ_4,4
+2021-11-02,Rožňava,Košický,obsadene_typ_3,3
+2021-11-02,Rožňava,Košický,obsadene_typ_4,2
+2021-11-02,Spišská Nová Ves,Košický,obsadene_typ_3,3
+2021-11-02,Spišská Nová Ves,Košický,obsadene_typ_4,9
+2021-11-02,Trebišov,Košický,obsadene_typ_3,4
+2021-11-02,Trebišov,Košický,obsadene_typ_4,2
+2021-11-02,Michalovce,Košický,obsadene_typ_3,7
+2021-11-02,Michalovce,Košický,obsadene_typ_4,3
+2021-11-02,Sobrance,Košický,obsadene_typ_3,0
+2021-11-02,Sobrance,Košický,obsadene_typ_4,0
+2021-11-02,Košice I,Košický,obsadene_typ_3,0
+2021-11-02,Košice I,Košický,obsadene_typ_4,0
+2021-11-02,Košice IV,Košický,obsadene_typ_3,18
+2021-11-02,Košice IV,Košický,obsadene_typ_4,10
+2021-11-02,Košice II,Košický,obsadene_typ_3,0
+2021-11-02,Košice II,Košický,obsadene_typ_4,4
+2021-11-02,Trenčín,Trenčiansky,obsadene_typ_3,4
+2021-11-02,Trenčín,Trenčiansky,obsadene_typ_4,7
+2021-11-02,Bánovce nad Bebravou,Trenčiansky,obsadene_typ_3,0
+2021-11-02,Bánovce nad Bebravou,Trenčiansky,obsadene_typ_4,0
+2021-11-02,Nové Mesto n.Váhom,Trenčiansky,obsadene_typ_3,0
+2021-11-02,Nové Mesto n.Váhom,Trenčiansky,obsadene_typ_4,0
+2021-11-02,Považská Bystrica,Trenčiansky,obsadene_typ_3,0
+2021-11-02,Považská Bystrica,Trenčiansky,obsadene_typ_4,4
+2021-11-02,Ilava,Trenčiansky,obsadene_typ_3,0
+2021-11-02,Ilava,Trenčiansky,obsadene_typ_4,0
+2021-11-02,Prievidza,Trenčiansky,obsadene_typ_3,0
+2021-11-02,Prievidza,Trenčiansky,obsadene_typ_4,4
+2021-11-02,Partizánske,Trenčiansky,obsadene_typ_3,1
+2021-11-02,Partizánske,Trenčiansky,obsadene_typ_4,3
+2021-11-02,Myjava,Trenčiansky,obsadene_typ_3,0
+2021-11-02,Myjava,Trenčiansky,obsadene_typ_4,2
